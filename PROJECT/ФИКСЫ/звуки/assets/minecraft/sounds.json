@@ -1,0 +1,59 @@
+{
+  "block.stone.break": {
+    "sounds": [
+      "cum/spank",
+      "cum/spank2",
+      "cum/fuckyou",
+      "cum/fuckyou2",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank"
+    ]
+  },
+  "xxxblock.stone.fall": {
+    "sounds": [
+      "cum/spank",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank"
+    ]
+  },
+  "block.stone.hit": {
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4",
+      "dig/stone5",
+      "dig/stone6",
+      "dig/stone7",
+      "slow/likethat",
+      "slow/spank",
+      "slow/spank2",
+      "slow/fuckyou",
+      "slow/fuckyou2",
+      "dig/stone8"
+    ]
+  },
+  "block.stone.place": {
+    "sounds": [
+      "cum/spank",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank"
+    ]
+  },
+  "xxxblock.stone.step": {
+    "sounds": [
+      "cum/spank",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank",
+      "cum/spank"
+    ]
+  }
+}

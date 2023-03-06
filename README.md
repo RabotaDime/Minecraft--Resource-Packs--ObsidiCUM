@@ -20,3 +20,20 @@ https://github.com/RabotaDime/Minecraft--Resource-Packs--ObsidiCUM/raw/main/RELE
 I'm using separate folders system to nicely organize entire work on each aspect of any resource pack I create for Minecraft. With that approach you don't need to worry about messy bunch of files inside your pack. Each file or folder with "XXX" in its file name will be skipped. So you can keep intermediate and project files inside same set of folders in your project, but these files won't go to final ZIP archive (build result).
 
 To build this pack into combined ZIP archive you need 7-Zip file archiver installed. And build scripts currently made only for Windows OS's (CMD).
+
+# Мои любимые анекдоты
+   Отправили как-то черепаху за водкой, а она долго не приходит.  
+   Проходит час. Проходит два. Вдруг скрипит дверь. Они начали  
+   ругать ее, матом крыть, где же ты пропадала, такая сякая и так далее.  
+   -- Если вы обзываться будете, я вообще никуда не пойду.  
+
+   Приходит как-то жаба к доктору Айболиту с носком на голове.  
+   Он спрашивает ее заботливым голосом:  
+   -- Что с тобой случилось, дорогая жаба?  
+   -- Закрой рот, это ограбление!  
+
+   -- Разрешите обратиться?  
+   -- Обращайтесь, -- не подумав, ляпнула она оборотню.  
+   
+   Что сказал слепой, заходя в бар?  
+   -- Всем привет, кого не видел!  
